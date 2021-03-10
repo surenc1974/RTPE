@@ -1,0 +1,102 @@
+{
+  "docs": [
+    {
+      "_index": "praxiasset",
+      "_type": "_doc",
+      "_id": "7236812",
+      "_version": 631496,
+      "_seq_no": 124586,
+      "_primary_term": 1,
+      "found": true,
+      "_source": {
+        "ratings": [
+          {
+            "rating": 0
+          }
+        ],
+        "recommendations": [
+          {
+            "totalscore": 0.08424908,
+            "attr": "{\"matcher-1-score\":0.0,\"matcher-2-score\":0,\"matcher-3-score\":0,\"matcher-5-score\":0.8846153846153846}",
+            "relatedbusinessassetid": 3514738,
+            "objectid": 7236812,
+            "relatedbusinessassetuid": "324e2170-be55-4282-939e-8902311f8a8e",
+            "relatedbusinessassetname": "MARKET_STATUS",
+            "status": "Suggested",
+            "statuscode": "S"
+          }
+        ],
+        "curations": [
+          {
+            "relatedbusinessassetid": 0,
+            "objectid": 0,
+            "relatedbusinessassetuid": "",
+            "relatedbusinessassetname": "",
+            "status": "",
+            "statuscode": ""
+          }
+        ],
+        "avgrating": 0,
+        "assetname": "Column2",
+        "qualifiedpath": "sqlserver-2.ckicl68ocq8h.us-west-2.rds.amazonaws.com > posttrade > dbo > stagetrade > Column2",
+        "assethierarchy": "7236835.7236836.7236837.7236632.7236812",
+        "parentchild": "child",
+        "id": "7236812",
+        "assetproperties": "{\"name\": \"Column2\", \"datatype\": \"StringType\", \"position\": 1}",
+        "assetclassuid": "8ded6840-d688-11e9-9cd7-027cfcde05b8",
+        "assetclass": "TechnologyAsset",
+        "assetclasspath": "TechnologyAsset",
+        "uid": "aa189a9a-c8d4-3c9d-a38d-b88b7f8b0c1a",
+        "parentuid": "e633fb84-350e-3273-805b-a0fa654f0c45",
+        "assettypeid": 9,
+        "assettypepath": "Database Server > Database Name > Database Schema > Database Table > Database Column",
+        "assettypename": "Database Column",
+        "assettypehierarchy": "58.59.107.32.9",
+        "status": "Draft",
+        "assetdefinition": "",
+        "assetlongdescription": "",
+        "assettypeuid": "3042c6c4-61fb-11e9-a6c4-94659c191f22",
+        "assettypeimage": "Column.svg",
+        "effectivestartdate": -25202,
+        "effectiveenddate": 0,
+        "updateon": 1599036510,
+        "createon": 1596758400,
+        "matchon": 1599036510,
+        "datasourcename": "SQL Server",
+        "datasourceid": 37,
+        "lang": "us-en",
+        "confidentiality": "0",
+        "updatebyname": "Job Controller",
+        "createbyname": "Job Controller",
+        "isactive": true,
+        "isprofiled": true,
+        "tags": [
+          {
+            "tag": ""
+          }
+        ],
+        "domains": [
+          {
+            "domain": "adomain"
+          }
+        ],
+        "synonyms": [
+          {
+            "synonym": ""
+          }
+        ],
+        "responsibilities": [
+          {
+            "role": "",
+            "resourceName": "",
+            "defaultrole": true
+          }
+        ],
+        "assetpath": {
+          "path": "sqlserver-2.ckicl68ocq8h.us-west-2.rds.amazonaws.com > posttrade > dbo > stagetrade > Column2",
+          "levels": []
+        }
+      }
+    }
+  ]
+}
