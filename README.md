@@ -4,3 +4,6 @@ The Controller gets a list of Technical terms. It gets relatedbusinessassetid fi
 For all of these business terms, it gets all possible combinations of all these business terms, synonyms and all.
 For all combinations, it gets a Murmur3 hash of the business term Asset ID integers
 It searches in the ES repository for the hash against the businessassethash and identifies the complex terms
+
+# RTR-Asset-Generator
+The id s of all business terms composing a complex term are used as input to create a business asset hash.
